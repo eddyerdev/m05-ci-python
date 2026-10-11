@@ -29,7 +29,7 @@ jobs:
 
   # ──────────────────────────────────────────────────────────────
   # JOB 1: lint
-  # Verifica que el código cumpla el estilo PEP8 con flake8.
+  # Verifica que el código cumplaS el estilo PEP8 con flake8.
   # Si este job falla, el job test NO se ejecuta (needs: lint).
   # ──────────────────────────────────────────────────────────────
   lint:
